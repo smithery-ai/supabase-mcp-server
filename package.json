@@ -1,7 +1,7 @@
 {
-  "name": "@joshuarileydev/terminal",
-  "version": "0.0.1",
-  "description": "MCP server for using the API",
+  "name": "@joshuarileydev/supabase-mcp-server",
+  "version": "0.0.2",
+  "description": "An MCP server for using the Supabase API",
   "license": "MIT",
   "type": "module",
   "bin": {

@@ -25,7 +25,7 @@ Add the following to your Claude Config JSON file
       "command": "npx",
       "args": [
         "y",
-        "@joshuarileydev/supabase"
+        "@joshuarileydev/supabase-mcp-server"
       ],
       "env": {
         "SUPABASE_API_KEY": "API_KEY_HERE"
